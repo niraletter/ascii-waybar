@@ -105,7 +105,7 @@ few ideas I had for waybar
 - Or run:
 
   ```bash
-  pkill waybar && waybar &
+  pkill -USR2 waybar
   ```
 
 ## ASCII Visualization
